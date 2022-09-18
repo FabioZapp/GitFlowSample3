@@ -10,3 +10,4 @@
 6. Ajustes apikeys
 7. Ajustes push.
 8. Ajustes keys firebase.
+9. Ajustes labels 1.0.2
