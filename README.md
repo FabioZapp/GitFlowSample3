@@ -5,3 +5,6 @@
 3. Forgot clave.
 
 4. Ajustes release 1.0.0
+
+5. Crear cupon
+6. Ajustes apikeys
