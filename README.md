@@ -8,3 +8,4 @@
 
 5. Crear cupon
 6. Ajustes apikeys
+7. Ajustes push.
