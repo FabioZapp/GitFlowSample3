@@ -8,3 +8,8 @@
 
 5. Crear cupon
 6. Ajustes apikeys
+7. Ajustes push.
+8. Ajustes keys firebase.
+9. Ajustes labels 1.0.2
+10. Ajustes apk
+11. Ajustes kiki.
