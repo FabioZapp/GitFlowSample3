@@ -12,3 +12,4 @@
 8. Ajustes keys firebase.
 9. Ajustes labels 1.0.2
 10. Ajustes apk
+11. Ajustes kiki.
