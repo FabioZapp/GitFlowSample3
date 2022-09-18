@@ -13,3 +13,5 @@
 9. Ajustes labels 1.0.2
 10. Ajustes apk
 11. Ajustes kiki.
+
+12. Ajustes cambio server api.
